@@ -26,3 +26,22 @@ Credits:
 
 Hope you guys love our app...
 Made with 💖 by Prometammers for syntax error.
+
+Readme for TodoList:
+
+The internet is flooded with a lot of to do list application but only very few of them guides the user to complete the tasks in that to do list. Our application is one such thing which not only guides but also makes the student more consistent. 
+We didn't add the individual login features because we wanted our application to be as simple as possible. It is simple but significant.
+You can add / edit / delete tasks easily according to your comfort.
+In future we are also planning to add a website blocker which blocks the most distractive website by analysing your web history. We are also planning to add personal customisable tags to our website.
+Installation and running:
+After coming to the website you can create tasks and by clicking on the timer of a particular task you will be redirected to the the pomodoro assistant page which will guide you to complete the task.
+
+How to use the project:
+
+1) click on the add new task button to create a task by giving a particular name to it.
+2)the task which you created will be displayed under tasks and you can click on edit to change the title of the task or you can click on delete button to remove it.
+3)and by clicking on the timer button you will be taken to the pomodoro page.
+Credits:
+1)https://youtu.be/MkESyVB4oUw
+
+Made with 💖 by Prometammers for syntax error...!
